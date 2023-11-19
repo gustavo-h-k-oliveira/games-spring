@@ -1,6 +1,5 @@
 package application.model;
 
-import java.lang.annotation.Inherited;
 import java.util.HashSet;
 import java.util.Set;
 

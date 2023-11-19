@@ -1,6 +1,5 @@
 package application.model;
 
-// import java.lang.annotation.Inherited;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -10,6 +9,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GeneratedType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
+import jakarta.persistence.JoinTable;
 import jakarta.persistence.ManyToMany;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.Table;
